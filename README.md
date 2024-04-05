@@ -3,7 +3,7 @@
 ## Team Name: 
 
 ## Team Members:
-Everett Cannon - 
+Everett Cannon - ejc88@pitt.edu
 Xinyu Chen - 
 Rachel Jan - raj96@pitt.edu
 
@@ -11,7 +11,7 @@ Rachel Jan - raj96@pitt.edu
 
 
 ## Datasets Used:
-
+Distribution of Bivalent Covid-19 Vaccine boosters by PGH neighborhood
 
 ## Overview
 A one sentence overview of your repository, meant for someone who is not familiar with the project

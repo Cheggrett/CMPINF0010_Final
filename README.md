@@ -18,6 +18,7 @@ Rachel Jan - raj96@pitt.edu
 
 ## Datasets Used:
 2024 Allegheny County Dog Licenses
+
 Distribution of Bivalent Covid-19 Vaccine boosters by PGH neighborhood
 
 ## Overview

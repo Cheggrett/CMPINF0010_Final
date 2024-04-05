@@ -4,7 +4,9 @@
 
 ## Team Members:
 Everett Cannon - 
+
 Xinyu Chen - 
+
 Rachel Jan - raj96@pitt.edu
 
 ## Description:

@@ -3,14 +3,8 @@
 ## Team Name: 
 
 ## Team Members:
-<<<<<<< HEAD
-Everett Cannon - 
-
-=======
 Everett Cannon - ejc88@pitt.edu
->>>>>>> 6efcb5e7ca27a4b5a2b168a340d94589c2c2dc2c
-Xinyu Chen - 
-
+Xinyu Chen - XIC124@pitt.edu
 Rachel Jan - raj96@pitt.edu
 
 ## Description:

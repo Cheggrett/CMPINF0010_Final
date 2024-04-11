@@ -3,14 +3,8 @@
 ## Team Name: 
 
 ## Team Members:
-<<<<<<< HEAD
-Everett Cannon - 
-
-=======
 Everett Cannon - ejc88@pitt.edu
->>>>>>> 6efcb5e7ca27a4b5a2b168a340d94589c2c2dc2c
-Xinyu Chen - 
-
+Xinyu Chen - XIC124@pitt.edu
 Rachel Jan - raj96@pitt.edu
 
 ## Description:
@@ -24,4 +18,4 @@ Distribution of Bivalent Covid-19 Vaccine boosters by PGH neighborhood
 Arrests in Pittsburgh
 
 ## Overview
-For the final project you will work as part of a team to answer the question: What is the best neighborhood in Pittsburgh?  Using data from the WPRDCLinks to an external site. Links to an external site., you will create a data driven argument to support your claim about the “best” neighborhood in Pittsburgh.
+For the final project we worked as a team to answer "What is the best neighborhood in Pittsburgh?" by measuring the personal responsibility residents in each neighborhood showed towards each other. 

@@ -18,4 +18,4 @@ Distribution of Bivalent Covid-19 Vaccine boosters by PGH neighborhood
 Arrests in Pittsburgh
 
 ## Overview
-For the final project you will work as part of a team to answer the question: What is the best neighborhood in Pittsburgh?  Using data from the WPRDCLinks to an external site. Links to an external site., you will create a data driven argument to support your claim about the “best” neighborhood in Pittsburgh.
+For the final project we worked as a team to answer "What is the best neighborhood in Pittsburgh?" by measuring the personal responsibility residents in each neighborhood showed towards each other. 
